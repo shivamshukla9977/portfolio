@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Shivam Shukla",
+    "description":"Full-stack developer specializing in React and Ruby on Rails, creating dynamic and robust web applications",
+    "image":"profilepic.jpg",
+    "bio":"Experienced Ruby on Rails developer with 5 years of experience in designing, developing, and maintaining robust and scalable web applications. Proficient in both front-end and back-end technologies, with a strong focus on delivering high-quality code and improving application performance. Proven ability to work in agile environments and collaborate with cross-functional teams to deliver projects on time.",
+    "contactmessage":"Your thoughts and questions are important to us. Whether you have a comment, need more information, or want to share your own story, please don't hesitate to reach out",
+    "email": "shishukla34@gmail.com",
+    "phone": "9589116035",
+    "github":"https://github.com/shivamshukla9977?tab=repositories",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Silicon City",
+      "city":"Indore",
+      "state":"Madhya Pradesh",
+      "zip": "453331"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1wCFV8mwpv5OMwBd7B4dKUHCvPVco9_16/edit#heading=h.gjdgxs",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am a full-stack developer with expertise in Ruby on Rails and ReactJS. With strong skills in Ruby and Ruby on Rails, I build efficient server-side solutions. On the front end, I excel in CSS, HTML, and ReactJS, creating visually appealing and interactive user interfaces. My proficiency in JavaScript and Bootstrap enhances web interactivity and responsiveness. Additionally, I am experienced in database management with PostgreSQL and MySQL, ensuring effective data storage and optimization.",
+    "education":[
+      {
+        "school":"RGPV University",
+        "degree":"Bachelor Of Engineering",
+        "graduated":"June 2020",
+        "description":"I gained a comprehensive education in computer science and software development. I studied a wide range of subjects, from the fundamentals of programming and algorithms to more advanced topics like data structures, database management, and web development."
+      },
+      {
+        "school":"Maharishi Vidya Mandir",
+        "degree":"Higher Education",
+        "graduated":"March 2016",
+        "description":"Gained academic knowledge in subjects like mathematics, science, language arts, and social studies, alongside practical skills in technology, art, and physical education. Key skills acquired include communication, collaboration, critical thinking, and time management. Students also develop life skills such as self-discipline, resilience, and independence."
+      }
+    ],
+    "work":[
+      {
+        "company":"Bestpeers Infosystem Pvt Ltd ",
+        "title":"Ruby On Rails Developer",
+        "years":"June 2019 - Present",
+        "description":"I led the development of scalable Ruby on Rails applications, collaborating with product managers and designers to deliver high-quality features. I implemented RESTful APIs, optimized performance, and improved user experience. Additionally, I mentored junior developers and conducted code reviews to ensure code quality and best practices."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Ruby",
+        "level":"80%"
+      },
+      {
+        "name":"Ruby On Raila",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML",
+        "level":"60%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"50%"
+      },
+      {
+        "name":"BOOTSTRAP",
+        "level":"40%"
+      },
+      {
+        "name":"PostgreSql",
+        "level":"70%"
+      },
+      {
+        "name":"MySql",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Content For Mobile",
+        "category":"THE LEADER IN GAMING & ESPORTS FOR TELCOS",
+        "image":"cfm.jpg",
+        "url":"https://contentformobile.net/"
+      },
+      {
+        "title":"Andela",
+        "category":"Adaptive Hiring Lets You Put Every Project on the Front Burner",
+        "image":"andela.jpg",
+        "url":"https://www.andela.com/"
+      },
+      {
+        "title":"InThought/InVision",
+        "category":"LIFE SCIENCE CONSULTING, MARKET RESEARCH & ANALYTICS",
+        "image":"inthought.jpg",
+        "url":"https://inthought.com/"
+      },
+      {
+        "title":"GoGrow",
+        "category":"Trusted technology experts for startups",
+        "image":"gogrow.jpg",
+        "url":"https://www.gogrow.dev/"
+      },
+      {
+        "title":"Mindbody",
+        "category":"The #1 software for fitness and wellness businesses",
+        "image":"mindbody.jpg",
+        "url":"https://www.mindbodyonline.com/"
+      },
+      {
+        "title":"CleverStream",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://cleversteam.com/"
+      },
+      {
+        "title":"Target Test Prep (TTP)",
+        "category":"Education",
+        "image":"ttp.jpg",
+        "url":"https://gmat.targettestprep.com/"
+      },
+      {
+        "title":"Builder.ai",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
